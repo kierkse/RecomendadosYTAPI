@@ -1,4 +1,4 @@
-using RecomendadosYoutube.WebAPI.Models;
+using RecomendadosYTAPI.WebAPI.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
@@ -6,7 +6,7 @@ using System;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace RecomendadosYoutube.WebAPI.Middlewares
+namespace RecomendadosYTAPI.WebAPI.Middlewares
 {
     public class ExceptionHandlingMiddleware : IMiddleware
     {

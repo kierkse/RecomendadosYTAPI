@@ -12,12 +12,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using RecomendadosYoutube.Application.Implementations;
-using RecomendadosYoutube.Application.Repository;
-using RecomendadosYoutube.Application.Services;
-using RecomendadosYoutube.Infra.Repository;
-using RecomendadosYoutube.WebAPI.Middlewares;
-using RecomendadosYoutube.WebAPI.Models;
+using RecomendadosYTAPI.Application.Implementations;
+using RecomendadosYTAPI.Application.Repository;
+using RecomendadosYTAPI.Application.Services;
+using RecomendadosYTAPI.Infra.Repository;
+using RecomendadosYTAPI.WebAPI.Middlewares;
+using RecomendadosYTAPI.WebAPI.Models;
 
 namespace WebAPI
 {

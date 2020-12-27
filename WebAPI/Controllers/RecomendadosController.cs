@@ -3,12 +3,12 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RecomendadosYoutube.Application.DTO;
-using RecomendadosYoutube.Application.Services;
-using RecomendadosYoutube.WebAPI.Models;
-using RecomendadosYoutube.WebAPI.Models.Youtube;
+using RecomendadosYTAPI.Application.DTO;
+using RecomendadosYTAPI.Application.Services;
+using RecomendadosYTAPI.WebAPI.Models;
+using RecomendadosYTAPI.WebAPI.Models.Youtube;
 
-namespace RecomendadosYoutube.WebAPI.Controllers
+namespace RecomendadosYTAPI.WebAPI.Controllers
 {
     [Route("api/Youtube/[controller]")]
     [ApiController]

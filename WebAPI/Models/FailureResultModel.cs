@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using RecomendadosYoutube.WebAPI.Models;
+using RecomendadosYTAPI.WebAPI.Models;
 
-namespace RecomendadosYoutube.WebAPI.Models
+namespace RecomendadosYTAPI.WebAPI.Models
 {
     public class FailureResultModel<TEntity> : AbstractResultModel<TEntity>
     {

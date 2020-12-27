@@ -1,4 +1,4 @@
-namespace RecomendadosYoutube.WebAPI.Models
+namespace RecomendadosYTAPI.WebAPI.Models
 {
     public class ResultDetail
     {

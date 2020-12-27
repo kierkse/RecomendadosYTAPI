@@ -1,9 +1,9 @@
 using System.Threading.Tasks;
-using RecomendadosYoutube.Application.DTO;
-using RecomendadosYoutube.Application.Services;
-using RecomendadosYoutube.Application.Repository;
+using RecomendadosYTAPI.Application.DTO;
+using RecomendadosYTAPI.Application.Services;
+using RecomendadosYTAPI.Application.Repository;
 
-namespace RecomendadosYoutube.Application.Implementations
+namespace RecomendadosYTAPI.Application.Implementations
 {
     public class YoutubeGetRecomendadosServices : IYoutubeGetRecomendadosService
     {

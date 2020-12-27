@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using RecomendadosYoutube.Application.DTO;
+using RecomendadosYTAPI.Application.DTO;
 
-namespace RecomendadosYoutube.Application.Services
+namespace RecomendadosYTAPI.Application.Services
 {
     public interface IYoutubeGetRecomendadosService
     {

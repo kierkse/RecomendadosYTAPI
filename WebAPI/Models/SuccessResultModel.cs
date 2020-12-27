@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace RecomendadosYoutube.WebAPI.Models
+namespace RecomendadosYTAPI.WebAPI.Models
 {
     public class SuccessResultModel<TEntity> : AbstractResultModel<TEntity>
     {

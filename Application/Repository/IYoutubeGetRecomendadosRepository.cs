@@ -1,7 +1,7 @@
-using RecomendadosYoutube.Application.DTO;
+using RecomendadosYTAPI.Application.DTO;
 using System.Threading.Tasks;
 
-namespace RecomendadosYoutube.Application.Repository
+namespace RecomendadosYTAPI.Application.Repository
 {
     public interface IYoutubeGetRecomendadosRepository
     {

@@ -1,4 +1,4 @@
-namespace RecomendadosYoutube.Application.DTO
+namespace RecomendadosYTAPI.Application.DTO
 {
     public class Usuario
     {

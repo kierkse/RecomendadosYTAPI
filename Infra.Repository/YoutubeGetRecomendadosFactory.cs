@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using RecomendadosYoutube.Application.Repository;
+using RecomendadosYTAPI.Application.Repository;
 
-namespace RecomendadosYoutube.Infra.Repository
+namespace RecomendadosYTAPI.Infra.Repository
 {
     public class YoutubeGetRecomendadosFactory : IYoutubeGetRecomendadosFactory
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace RecomendadosYoutube.Application.Repository
+namespace RecomendadosYTAPI.Application.Repository
 {
     public interface IYoutubeGetRecomendadosFactory
     {

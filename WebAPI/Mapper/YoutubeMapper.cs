@@ -1,8 +1,8 @@
 using AutoMapper;
-using RecomendadosYoutube.Application.DTO;
-using RecomendadosYoutube.WebAPI.Models.Youtube;
+using RecomendadosYTAPI.Application.DTO;
+using RecomendadosYTAPI.WebAPI.Models.Youtube;
 
-namespace RecomendadosYoutube.WebAPI.Mapper
+namespace RecomendadosYTAPI.WebAPI.Mapper
 {
     public class YoutubeMapper : Profile
     {

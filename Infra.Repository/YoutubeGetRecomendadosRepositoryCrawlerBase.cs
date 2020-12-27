@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
-using RecomendadosYoutube.Application.DTO;
-using RecomendadosYoutube.Application.Repository;
+using RecomendadosYTAPI.Application.DTO;
+using RecomendadosYTAPI.Application.Repository;
 
-namespace RecomendadosYoutube.Infra.Repository
+namespace RecomendadosYTAPI.Infra.Repository
 {
     public abstract class YoutubeGetRecomendadosRepositoryCrawlerBase : IYoutubeGetRecomendadosRepository
     {
