@@ -1,4 +1,4 @@
-namespace RecomendadosYTAPI.WebAPI.Models.Youtube
+namespace RecomendadosYTAPI.WebAPI.Domain.Entities
 {
     public class UsuarioModel
     {

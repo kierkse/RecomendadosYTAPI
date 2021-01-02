@@ -1,7 +1,6 @@
 using System;
-using System.Collections.Generic;
 
-namespace RecomendadosYTAPI.WebAPI.Models.Youtube
+namespace RecomendadosYTAPI.WebAPI.Domain.Entities
 {
     public class VideosUsuarioModel
     {

@@ -1,6 +1,6 @@
 using AutoMapper;
 using RecomendadosYTAPI.Application.DTO;
-using RecomendadosYTAPI.WebAPI.Models.Youtube;
+using RecomendadosYTAPI.WebAPI.Domain.Entities;
 
 namespace RecomendadosYTAPI.WebAPI.Mapper
 {

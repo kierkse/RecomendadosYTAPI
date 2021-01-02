@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using RecomendadosYTAPI.Application.DTO;
 using RecomendadosYTAPI.Application.Services;
 using RecomendadosYTAPI.WebAPI.Models;
-using RecomendadosYTAPI.WebAPI.Models.Youtube;
+using RecomendadosYTAPI.WebAPI.Domain.Entities;
 
 namespace RecomendadosYTAPI.WebAPI.Controllers
 {
